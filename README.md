@@ -1,12 +1,12 @@
 # Sistema de Gestão de Estoque - Trabalho Final POO
 
-## 📋 Descrição do Projeto
+##  Descrição do Projeto
 
 Este é um sistema completo de gestão de estoque desenvolvido como trabalho final da disciplina de Programação Orientada a Objetos (POO). O sistema permite gerenciar produtos, clientes, funcionários, aluguéis e gerar relatórios em PDF.
 ![image](https://github.com/user-attachments/assets/b3325801-2d09-4964-8a78-4dbf9cfa93bc)
 
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 ### Backend
 
@@ -29,7 +29,7 @@ Este é um sistema completo de gestão de estoque desenvolvido como trabalho fin
 - **Lucide React** (Ícones)
 
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### Pré-requisitos
 
@@ -103,7 +103,7 @@ npm install
 npm run dev
 ```
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```plaintext
 sistema-gestao-estoque/
@@ -126,7 +126,7 @@ sistema-gestao-estoque/
 └── README.md
 ```
 
-## 🎯 Funcionalidades
+##  Funcionalidades
 
 ### 1. Dashboard
 
@@ -172,7 +172,7 @@ sistema-gestao-estoque/
 - **Gestão de Estoque**: Inventário completo
 
 
-## 🔗 Endpoints da API
+##  Endpoints da API
 
 ### Clientes
 
@@ -219,7 +219,7 @@ GET    /relatorios/vendas-cliente/{id}     # PDF vendas por cliente
 GET    /relatorios/estoque                 # PDF gestão de estoque
 ```
 
-## 📊 Exemplos de Uso
+##  Exemplos de Uso
 
 ### Cadastrar Cliente
 
@@ -252,7 +252,7 @@ POST /alugueis/com-produtos
 }
 ```
 
-## 🎨 Interface do Sistema
+##  Interface do Sistema
 
 O sistema possui uma interface moderna e responsiva com:
 
@@ -305,7 +305,7 @@ O sistema possui uma interface moderna e responsiva com:
 }
 ```
 
-## 🚨 Solução de Problemas
+##  Solução de Problemas
 
 ### Erro de Conexão com MySQL
 
@@ -331,7 +331,7 @@ lsof -ti:8080 | xargs kill -9
 lsof -ti:3000 | xargs kill -9
 ```
 
-## 📝 Conceitos de POO Aplicados
+##  Conceitos de POO Aplicados
 
 ### 1. Encapsulamento
 
@@ -359,14 +359,14 @@ lsof -ti:3000 | xargs kill -9
 - Interfaces para contratos
 
 
-## 👨‍💻 Autor
+##  Autor
 
 Paulo Henrique Ferreira dos Santos
 
-- GitHub: [@seu-usuario](https://github.com/phxyzhique)
+- GitHub: [@paulohique](https://github.com/paulohique)
 
 
-## 📄 Licença
+##  Licença
 
 Este projeto foi desenvolvido para fins acadêmicos como trabalho final da disciplina de Programação Orientada a Objetos.
 
