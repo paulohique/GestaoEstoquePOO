@@ -372,4 +372,4 @@ Este projeto foi desenvolvido para fins acadêmicos como trabalho final da disci
 
 ---
 
-**Trabalho Final - Programação Orientada a Objetos****UNIPAC/CIENCIA DA COMPUTAÇÂO - Ano 2024**
+**Trabalho Final - Programação Orientada a Objetos****UNIPAC/CIENCIA DA COMPUTAÇÂO - Ano 2025**
